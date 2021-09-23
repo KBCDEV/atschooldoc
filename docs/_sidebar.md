@@ -1,0 +1,5 @@
+- Getting started
+  - [Instalation](README.md)
+  - [Login](login.md)
+- Admin
+  - [Dashboard](admin/dashboard.md)
